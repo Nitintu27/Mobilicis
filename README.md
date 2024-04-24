@@ -1,1 +1,8 @@
 # Mobilicis
+The HTML file, `index.html`, lays out the webpage's structure, dividing it into distinct sections like the header, main content, and footer. The header includes a navigation bar with buttons for Home, Job Listings, About Japan, and Contact Us, along with a language selection dropdown menu. Each section within the main content area represents a different part of the webpage, such as the homepage, job listings, about Japan, and contact form, identified by unique IDs. The footer contains copyright information and other relevant content.
+
+In the CSS file, `styles.css`, global styles are defined to set basic appearance properties like font-family, background-color, and text color. Specific styles are applied to elements within the header, main content sections, typography (headings and paragraphs), forms (input fields and buttons), and footer to enhance the visual presentation of the webpage.
+
+The JavaScript file, `script.js`, adds functionality to the webpage. Navigation functionality is implemented to smoothly scroll to different sections of the page when the navigation buttons are clicked. Language selection functionality allows users to switch between English and Japanese, dynamically translating the content of the webpage. Additionally, form submission functionality is included to prevent the default form submission behavior and display an alert message when the contact form is submitted successfully.
+
+Together, these files create a cohesive and functional webpage, providing users with easy navigation, language options, and form interaction while maintaining a visually appealing design. Further customization and expansion can be done based on specific project requirements.
